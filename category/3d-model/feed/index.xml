@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>3D Model &#8211; Taylor Jones</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 03 Mar 2021 00:53:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>3D Home Model</title>
+		<link>./../../../3d-home-model_2/index.html</link>
+		
+		<dc:creator><![CDATA[wordpress]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2021 20:47:18 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Live Home 3D]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=837</guid>
+
+					<description><![CDATA[Previous Next Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions based on changes the architect made while working with his client. Created Using]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="837" class="elementor elementor-837" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b65d1d8" data-id="b65d1d8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-f21cc54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f21cc54" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d1e20ad" data-id="d1e20ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2dfe72e elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="2dfe72e" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+					<div class="elementor-repeater-item-e1b7200 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-bb166c5 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-02c39b3 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2238c1c" data-id="2238c1c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-098d234 elementor-widget elementor-widget-shortcode" data-id="098d234" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><a href="./../index.html" rel="tag">3D Model</a></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8f2301d elementor-widget elementor-widget-theme-page-title elementor-page-title elementor-widget-heading" data-id="8f2301d" data-element_type="widget" data-widget_type="theme-page-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">3D Model</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e1f0d82 elementor-widget elementor-widget-text-editor" data-id="e1f0d82" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions based on changes the architect made while working with his client.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7f7380c elementor-widget elementor-widget-heading" data-id="7f7380c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Created Using</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ff176ff elementor-widget elementor-widget-shortcode" data-id="ff176ff" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><span>Live Home 3D</span></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3D Home Model</title>
+		<link>./../../../3d-home-model-copy/index.html</link>
+		
+		<dc:creator><![CDATA[wordpress]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2021 20:44:37 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Live Home 3D]]></category>
+		<guid isPermaLink="false">./../../../3d-home-model-copy/index.html</guid>
+
+					<description><![CDATA[Previous Next An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several revisions based on changes the architect made while working with his client. Created Using]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2052" class="elementor elementor-2052" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b65d1d8" data-id="b65d1d8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-f21cc54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f21cc54" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d1e20ad" data-id="d1e20ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2dfe72e elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="2dfe72e" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+					<div class="elementor-repeater-item-8aeeaef swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-9bb8166 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-626f1cf swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2238c1c" data-id="2238c1c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-098d234 elementor-widget elementor-widget-shortcode" data-id="098d234" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><a href="./../index.html" rel="tag">3D Model</a></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8f2301d elementor-widget elementor-widget-theme-page-title elementor-page-title elementor-widget-heading" data-id="8f2301d" data-element_type="widget" data-widget_type="theme-page-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">3D Model</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-af99b69 elementor-widget elementor-widget-text-editor" data-id="af99b69" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several revisions based on changes the architect made while working with his client.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7f7380c elementor-widget elementor-widget-heading" data-id="7f7380c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Created Using</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ff176ff elementor-widget elementor-widget-shortcode" data-id="ff176ff" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><span>Live Home 3D</span></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
