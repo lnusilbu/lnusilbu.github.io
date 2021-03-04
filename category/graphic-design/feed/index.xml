@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Mar 2021 01:33:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Mar 2021 15:42:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>Icon Redesign</title>
-		<link>./../../../app-icon/index.html</link>
+		<link>./../../../icon-redesign/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:41:03 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Pixelmator]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=827</guid>
 
-					<description><![CDATA[An application for ProtonMail did not have an icon consistent in style with macOS Catalina. It was important to keep the logo...]]></description>
+					<description><![CDATA[An application for ProtonMail did not have an icon consistent in style with macOS Catalina. It was important to keep the logo…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="827" class="elementor elementor-827" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -72,7 +72,7 @@
 				<div class="elementor-widget-container">
 			<h1 class="elementor-heading-title elementor-size-default">Graphic Design</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-fa9be7c elementor-widget elementor-widget-text-editor" data-id="fa9be7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-96119e0 elementor-widget elementor-widget-text-editor" data-id="96119e0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>An application for ProtonMail did not have an icon consistent in style with macOS Catalina. It was important to keep the logo unchanged while updating the icon to better fit with other native applications. This project was for an unofficial app and not associated with ProtonMail. </p></div>
 				</div>
@@ -103,7 +103,7 @@
 			</item>
 		<item>
 		<title>Loyalty Card</title>
-		<link>./../../../loyalty-card-2/index.html</link>
+		<link>./../../../loyalty-card/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:29:07 +0000</pubDate>
@@ -154,7 +154,7 @@
 				<div class="elementor-widget-container">
 			<h1 class="elementor-heading-title elementor-size-default">Graphic Design</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-738df4b elementor-widget elementor-widget-text-editor" data-id="738df4b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-196b92c elementor-widget elementor-widget-text-editor" data-id="196b92c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>Created a digital facsimile of a physical loyalty card that scans in store and saves space in wallet. </p></div>
 				</div>

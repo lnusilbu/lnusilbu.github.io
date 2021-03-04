@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Mar 2021 01:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Mar 2021 15:41:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>Vector Art</title>
-		<link>./../../../vector-2/index.html</link>
+		<link>./../../../vector/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:33:31 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Graphic for iPadOS]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=819</guid>
 
-					<description><![CDATA[Digital illustration modeled after a real world object. Created in vector format (.svg) which is based on mathematical formulas;  it can be scaled to...]]></description>
+					<description><![CDATA[Digital illustration modeled after a real world object. Created in vector format (.svg) which is based on mathematical formulas; it can be scaled to…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="819" class="elementor elementor-819" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -63,7 +63,7 @@
 				<div class="elementor-widget-container">
 			<h1 class="elementor-heading-title elementor-size-default">Illustration</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-04570c0 elementor-widget elementor-widget-text-editor" data-id="04570c0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-a6c18de elementor-widget elementor-widget-text-editor" data-id="a6c18de" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>Digital illustration modeled after a real world object. Created in vector format (.svg) which is based on mathematical formulas;  it can be scaled to any size without losing image resolution.</p></div>
 				</div>

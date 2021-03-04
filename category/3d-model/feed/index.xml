@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Mar 2021 01:35:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Mar 2021 15:41:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>3D Home Model</title>
-		<link>./../../../3d-home-model_2/index.html</link>
+		<link>./../../../3d-home-model-2/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:47:18 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Live Home 3D]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=837</guid>
 
-					<description><![CDATA[Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions...]]></description>
+					<description><![CDATA[Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="837" class="elementor elementor-837" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -72,7 +72,7 @@
 				<div class="elementor-widget-container">
 			<h1 class="elementor-heading-title elementor-size-default">3D Model</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-e1f0d82 elementor-widget elementor-widget-text-editor" data-id="e1f0d82" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-884bd2a elementor-widget elementor-widget-text-editor" data-id="884bd2a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions based on changes the architect made while working with his client.</p></div>
 				</div>
@@ -103,7 +103,7 @@
 			</item>
 		<item>
 		<title>3D Home Model</title>
-		<link>./../../../3d-home-model-copy/index.html</link>
+		<link>./../../../3d-home-model/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:44:37 +0000</pubDate>
@@ -111,7 +111,7 @@
 		<category><![CDATA[Live Home 3D]]></category>
 		<guid isPermaLink="false">./../../../3d-home-model-copy/index.html</guid>
 
-					<description><![CDATA[An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several...]]></description>
+					<description><![CDATA[An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2052" class="elementor elementor-2052" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -154,7 +154,7 @@
 				<div class="elementor-widget-container">
 			<h1 class="elementor-heading-title elementor-size-default">3D Model</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-af99b69 elementor-widget elementor-widget-text-editor" data-id="af99b69" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-8be35e7 elementor-widget elementor-widget-text-editor" data-id="8be35e7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several revisions based on changes the architect made while working with his client.</p></div>
 				</div>

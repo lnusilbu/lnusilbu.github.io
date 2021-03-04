@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Mar 2021 01:31:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Mar 2021 15:42:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>Product Label</title>
-		<link>./../../../product-label-v2/index.html</link>
+		<link>./../../../product-label/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:21:49 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Sketch]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=792</guid>
 
-					<description><![CDATA[A small business owner needed a packaging label for shipping products to customers. Used the back of the label as an opportunity to...]]></description>
+					<description><![CDATA[A small business owner needed a packaging label for shipping products to customers. Used the back of the label as an opportunity to…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="792" class="elementor elementor-792" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -72,7 +72,7 @@
 				<div class="elementor-widget-container">
 			<h1 class="elementor-heading-title elementor-size-default">Branding</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-390eb88 elementor-widget elementor-widget-text-editor" data-id="390eb88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-c06ab3c elementor-widget elementor-widget-text-editor" data-id="c06ab3c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>A small business owner needed a packaging label for shipping products to customers. Used the back of the label as an opportunity to further market the company&#8217;s brand with a philosophical quote. Also created a user-friendly print template so the client can easily make more labels as needed.</p></div>
 				</div>

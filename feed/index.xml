@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Mar 2021 01:35:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Mar 2021 15:42:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>3D Home Model</title>
-		<link>./../3d-home-model_2/index.html</link>
+		<link>./../3d-home-model-2/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:47:18 +0000</pubDate>
@@ -29,7 +29,7 @@
 		<category><![CDATA[Live Home 3D]]></category>
 		<guid isPermaLink="false">./../index.html?p=837</guid>
 
-					<description><![CDATA[Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions...]]></description>
+					<description><![CDATA[Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="837" class="elementor elementor-837" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -68,7 +68,7 @@
 					<div class="elementor-shortcode"><a href="./../category/3d-model/index.html" rel="tag">3D Model</a></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-e1f0d82 elementor-widget elementor-widget-text-editor" data-id="e1f0d82" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-884bd2a elementor-widget elementor-widget-text-editor" data-id="884bd2a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>Another 3D mockup for an architect who needed to help a client visualize his initial plans. Included several revisions based on changes the architect made while working with his client.</p></div>
 				</div>
@@ -99,7 +99,7 @@
 			</item>
 		<item>
 		<title>3D Home Model</title>
-		<link>./../3d-home-model-copy/index.html</link>
+		<link>./../3d-home-model/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:44:37 +0000</pubDate>
@@ -107,7 +107,7 @@
 		<category><![CDATA[Live Home 3D]]></category>
 		<guid isPermaLink="false">./../3d-home-model-copy/index.html</guid>
 
-					<description><![CDATA[An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several...]]></description>
+					<description><![CDATA[An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2052" class="elementor elementor-2052" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -146,7 +146,7 @@
 					<div class="elementor-shortcode"><a href="./../category/3d-model/index.html" rel="tag">3D Model</a></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-af99b69 elementor-widget elementor-widget-text-editor" data-id="af99b69" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-8be35e7 elementor-widget elementor-widget-text-editor" data-id="8be35e7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>An architect needed a 3D mockup of his plans for a remodel to help better communicate his idea to a client. Included several revisions based on changes the architect made while working with his client.</p></div>
 				</div>
@@ -177,7 +177,7 @@
 			</item>
 		<item>
 		<title>Icon Redesign</title>
-		<link>./../app-icon/index.html</link>
+		<link>./../icon-redesign/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:41:03 +0000</pubDate>
@@ -185,7 +185,7 @@
 		<category><![CDATA[Pixelmator]]></category>
 		<guid isPermaLink="false">./../index.html?p=827</guid>
 
-					<description><![CDATA[An application for ProtonMail did not have an icon consistent in style with macOS Catalina. It was important to keep the logo...]]></description>
+					<description><![CDATA[An application for ProtonMail did not have an icon consistent in style with macOS Catalina. It was important to keep the logo…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="827" class="elementor elementor-827" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -224,7 +224,7 @@
 					<div class="elementor-shortcode"><a href="./../category/graphic-design/index.html" rel="tag">Graphic Design</a></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-fa9be7c elementor-widget elementor-widget-text-editor" data-id="fa9be7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-96119e0 elementor-widget elementor-widget-text-editor" data-id="96119e0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>An application for ProtonMail did not have an icon consistent in style with macOS Catalina. It was important to keep the logo unchanged while updating the icon to better fit with other native applications. This project was for an unofficial app and not associated with ProtonMail. </p></div>
 				</div>
@@ -255,7 +255,7 @@
 			</item>
 		<item>
 		<title>Vector Art</title>
-		<link>./../vector-2/index.html</link>
+		<link>./../vector/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:33:31 +0000</pubDate>
@@ -263,7 +263,7 @@
 		<category><![CDATA[Graphic for iPadOS]]></category>
 		<guid isPermaLink="false">./../index.html?p=819</guid>
 
-					<description><![CDATA[Digital illustration modeled after a real world object. Created in vector format (.svg) which is based on mathematical formulas;  it can be scaled to...]]></description>
+					<description><![CDATA[Digital illustration modeled after a real world object. Created in vector format (.svg) which is based on mathematical formulas; it can be scaled to…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="819" class="elementor elementor-819" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -293,7 +293,7 @@
 					<div class="elementor-shortcode"><a href="./../category/illustration/index.html" rel="tag">Illustration</a></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-04570c0 elementor-widget elementor-widget-text-editor" data-id="04570c0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-a6c18de elementor-widget elementor-widget-text-editor" data-id="a6c18de" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>Digital illustration modeled after a real world object. Created in vector format (.svg) which is based on mathematical formulas;  it can be scaled to any size without losing image resolution.</p></div>
 				</div>
@@ -324,7 +324,7 @@
 			</item>
 		<item>
 		<title>Loyalty Card</title>
-		<link>./../loyalty-card-2/index.html</link>
+		<link>./../loyalty-card/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:29:07 +0000</pubDate>
@@ -371,7 +371,7 @@
 					<div class="elementor-shortcode"><a href="./../category/graphic-design/index.html" rel="tag">Graphic Design</a></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-738df4b elementor-widget elementor-widget-text-editor" data-id="738df4b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-196b92c elementor-widget elementor-widget-text-editor" data-id="196b92c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>Created a digital facsimile of a physical loyalty card that scans in store and saves space in wallet. </p></div>
 				</div>
@@ -402,7 +402,7 @@
 			</item>
 		<item>
 		<title>Product Label</title>
-		<link>./../product-label-v2/index.html</link>
+		<link>./../product-label/index.html</link>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 20:21:49 +0000</pubDate>
@@ -410,7 +410,7 @@
 		<category><![CDATA[Sketch]]></category>
 		<guid isPermaLink="false">./../index.html?p=792</guid>
 
-					<description><![CDATA[A small business owner needed a packaging label for shipping products to customers. Used the back of the label as an opportunity to...]]></description>
+					<description><![CDATA[A small business owner needed a packaging label for shipping products to customers. Used the back of the label as an opportunity to…]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="792" class="elementor elementor-792" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a114a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a114a2" data-element_type="section">
@@ -449,7 +449,7 @@
 					<div class="elementor-shortcode"><a href="./../category/branding/index.html" rel="tag">Branding</a></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-390eb88 elementor-widget elementor-widget-text-editor" data-id="390eb88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-c06ab3c elementor-widget elementor-widget-text-editor" data-id="c06ab3c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-text-editor elementor-clearfix"><p>A small business owner needed a packaging label for shipping products to customers. Used the back of the label as an opportunity to further market the company&#8217;s brand with a philosophical quote. Also created a user-friendly print template so the client can easily make more labels as needed.</p></div>
 				</div>
